@@ -8,8 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PaymentTrx" />
+        <module name="CoffeeMaker" />
         <module name="Project2.1" />
-        <module name="coffeeMaker" />
       </profile>
     </annotationProcessing>
   </component>
